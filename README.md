@@ -25,7 +25,7 @@
 * 词云轮廓图
 <img src="https://raw.githubusercontent.com/DA1YAYUAN/JD-comments-sentiment-analysis/main/jdicon.jpg" width=200 height=200/>
 * 商品词云
-<img src="https://raw.githubusercontent.com/DA1YAYUAN/JD-comments-sentiment-analysis/main/jd_ciyun.jpg" width=600 height=500/>
+<img src="https://raw.githubusercontent.com/DA1YAYUAN/JD-comments-sentiment-analysis/main/jd_ciyun.jpg" width=500 height=500/>
 * 情感分析结果可视化
-<img src="https://raw.githubusercontent.com/DA1YAYUAN/JD-comments-sentiment-analysis/main/fig.png" width=500 height=500/>
+<img src="https://raw.githubusercontent.com/DA1YAYUAN/JD-comments-sentiment-analysis/main/fig.png" width=600 height=500/>
 ---
