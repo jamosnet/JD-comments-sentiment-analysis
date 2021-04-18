@@ -22,3 +22,4 @@
 3. sentiment模块根据sentiment.marshal.3对评论进行情感评分，评分结果存入result.csv
 4. 评分结果可视化，生成文件fig.png
 ---
+![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
