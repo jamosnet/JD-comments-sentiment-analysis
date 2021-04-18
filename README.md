@@ -28,4 +28,3 @@
 <img src="https://raw.githubusercontent.com/DA1YAYUAN/JD-comments-sentiment-analysis/main/jd_ciyun.jpg" width=500 height=500/>
 * 情感分析结果可视化
 <img src="https://raw.githubusercontent.com/DA1YAYUAN/JD-comments-sentiment-analysis/main/fig.png" width=600 height=500/>
----
