@@ -22,9 +22,10 @@
 3. sentiment模块根据sentiment.marshal.3对评论进行情感评分，评分结果存入result.csv
 4. 评分结果可视化，生成文件fig.png
 ---
-### 词云轮廓图
-![Image text](https://raw.githubusercontent.com/DA1YAYUAN/JD-comments-sentiment-analysis/main/jdicon.jpg)
-### 商品词云
-![Image text](https://raw.githubusercontent.com/DA1YAYUAN/JD-comments-sentiment-analysis/main/jd_ciyun.jpg)
-### 情感分析结果可视化
-![Image text](https://raw.githubusercontent.com/DA1YAYUAN/JD-comments-sentiment-analysis/main/fig.png)
+#### 词云轮廓图
+<img src="https://raw.githubusercontent.com/DA1YAYUAN/JD-comments-sentiment-analysis/main/jdicon.jpg" width=200 height=200/>
+#### 商品词云
+<img src="https://raw.githubusercontent.com/DA1YAYUAN/JD-comments-sentiment-analysis/main/jd_ciyun.jpg" width=200 height=200/>
+#### 情感分析结果可视化
+<img src="https://raw.githubusercontent.com/DA1YAYUAN/JD-comments-sentiment-analysis/main/fig.png" width=200 height=200/>
+---
