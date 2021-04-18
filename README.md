@@ -10,7 +10,7 @@
 #### 数据爬取（`jd.comment.py`)
 1. 启动`jd_comment.py`
 2. 输入京东商品地址
-3. 得到京东评论词云，存放于`jd_ciyun.jpg`（词云轮廓形状存放于jdicon.jpg)
+3. 得到京东评论词云，存放于`jd_ciyun.jpg`（词云轮廓形状存放于`jdicon.jpg`)
 4. 得到京东评论数据，存放于`jd_comment.csv`
 #### 模型训练（train.py）
 1. 准备正负语料集[online_shopping_10_cats.csv](https://link.zhihu.com/?target=https%3A//github.com/SophonPlus/ChineseNlpCorpus/raw/master/datasets/online_shopping_10_cats/online_shopping_10_cats.zip)，分别存入negative.txt和positive.txt
