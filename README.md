@@ -17,7 +17,7 @@
 3. 找到外部库中snownlp中sentiment模块，将训练得到的sentiment.marshal.3文件覆盖sentiment模块中自带的sentiment.marshal.3
 #### 情感分析（sentiment.analysis.py）
 1. 启动sentiment.analysis.py
-2. 开始对jd_comment.csv中评论进行数据处理
-3. sentiment模块根据sentiment.marshal.3对评论进行情感评分
-4. 评分结果可视化，生成文件fig.png()
+2. 开始对jd_comment.csv中评论进行数据处理，处理后文件存入processed_comment_data.csv
+3. sentiment模块根据sentiment.marshal.3对评论进行情感评分，评分结果存入result.csv
+4. 评分结果可视化，生成文件fig.png
 ---
