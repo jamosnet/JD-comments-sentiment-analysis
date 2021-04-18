@@ -23,3 +23,5 @@
 4. 评分结果可视化，生成文件fig.png
 ---
 ![Image text](https://raw.githubusercontent.com/DA1YAYUAN/JD-comments-sentiment-analysis/main/jd_ciyun.jpg)
+![Image text](https://raw.githubusercontent.com/DA1YAYUAN/JD-comments-sentiment-analysis/main/jdicon.jpg)
+![Image text](https://raw.githubusercontent.com/DA1YAYUAN/JD-comments-sentiment-analysis/main/jdicon.jpg)
