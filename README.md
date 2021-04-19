@@ -3,7 +3,7 @@
 ## 运行环境
 
 * Mac OS X
-* Python3.7
+* Python3.7  `requirements.txt`
 * Pycharm
 ---
 ## 运行方法
