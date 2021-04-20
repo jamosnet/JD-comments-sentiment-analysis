@@ -9,7 +9,7 @@
 ## 运行方法
 #### 数据爬取（`jd.comment.py`)
 1. 启动`jd_comment.py`
-2. 输入京东商品地址
+2. 输入京东商品完整URL
 3. 得到京东评论词云，存放于`jd_ciyun.jpg`（词云轮廓形状存放于`jdicon.jpg`)
 4. 得到京东评论数据，存放于`jd_comment.csv`
 #### 模型训练（train.py）
