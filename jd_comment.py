@@ -26,7 +26,7 @@ def spider_comment(page=0, key=0):
     :param page: 爬取第几，默认值为0
     """
 
-    url = 'https://sclub.jd.com/comment/productPageComments.action?callback=fetchJSON_comment98vv4646&productId=' + key + '' \
+    url = 'https://club.jd.com/comment/productPageComments.action?callback=fetchJSON_comment98vv4646&productId=' + key + '' \
           '&score=0&sortType=5&page=%s&pageSize=10&isShadowSku=0&fold=1' % page
     kv = {'user-agent': 'Mozilla/5.0', 'Referer': 'https://item.jd.com/'+ key + '.html'}#原本key不输入值，默认为《三体》
 
