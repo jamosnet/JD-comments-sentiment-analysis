@@ -13,7 +13,7 @@
 3. 得到京东评论词云，存放于`jd_ciyun.jpg`（词云轮廓形状存放于`jdicon.jpg`)
 4. 得到京东评论数据，存放于`jd_comment.csv`
 #### 模型训练（`train.py`）
-1. 准备正负语料集`[online_shopping_10_cats.csv](https://link.zhihu.com/?target=https%3A//github.com/SophonPlus/ChineseNlpCorpus/raw/master/datasets/online_shopping_10_cats/online_shopping_10_cats.zip)`，分别存入negative.txt和positive.txt
+1. 准备正负语料集[`online_shopping_10_cats.csv`](https://link.zhihu.com/?target=https%3A//github.com/SophonPlus/ChineseNlpCorpus/raw/master/datasets/online_shopping_10_cats/online_shopping_10_cats.zip)，分别存入negative.txt和positive.txt
 2. 启动`train.py`，新建文件`sentiment.marshal`，存入训练后的模型
 3. 找到外部库中snownlp中sentiment模块，将训练得到的`sentiment.marshal.3`文件覆盖sentiment模块中自带的`sentiment.marshal.3`
 #### 情感分析（`sentiment.analysis.py`）
