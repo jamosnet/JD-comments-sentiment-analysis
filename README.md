@@ -2,7 +2,7 @@
 爬取京东商城中指定商品下的用户评论，对数据预处理后基于SnowNLP的sentiment模块对文本进行情感分析。
 ## 运行环境
 
-* Mac OS X
+* Mac OS X 兼容更低版本
 * Python3.7  `requirements.txt`
 * Pycharm
 ---
